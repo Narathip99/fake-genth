@@ -1,0 +1,10 @@
+:root {
+  --text-white: #FFF;
+  --blue : #0074b9;
+
+  --bg-lightgray : #f5f9fc;
+}
+
+.bg-lightgray {
+  background-color: var(--bg-lightgray);
+}
